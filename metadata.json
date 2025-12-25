@@ -1,0 +1,7 @@
+{
+  "name": "ScoreBoost Elite - Credit Repair Consultant",
+  "description": "A high-end credit repair consultancy platform featuring an AI-driven specialist to qualify leads, explain pricing, and schedule removals of negative credit accounts across all major bureaus.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
